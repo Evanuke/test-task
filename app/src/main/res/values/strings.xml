@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">intent-test-task</string>
+    <string name="search_hint">Search GitHub repositories</string>
+    <string name="stars_label">Stars:</string>
+    <string name="error_message">Error. Cannot fetch data.</string>
+</resources>
